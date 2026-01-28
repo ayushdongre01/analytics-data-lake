@@ -31,7 +31,7 @@ ClickHouse acts as the **compute layer**, while MinIO acts as the **storage laye
 - ClickHouse (analytical OLAP database)
 - Docker & Docker Compose
 
----
+```
 
 ## Folder Structure
 
@@ -46,7 +46,7 @@ analytics-data-lake/
 └── README.md
 
 
----
+```
 
 ## Data Modeling Approach
 
