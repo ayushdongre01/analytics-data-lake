@@ -1,0 +1,156 @@
+[
+    {
+        "PortfolioGroupName": "John  Smith",
+        "PortfolioGroupID": "141431",
+        "PortfolioIds": [
+            "1829121",
+            "1842011",
+            "1893671",
+            "z013962551",
+            "z015738961",
+            "z016306161"
+        ]
+    },
+    {
+        "PortfolioGroupName": "Adam Hodge",
+        "PortfolioGroupID": "141441",
+        "PortfolioIds": [
+            "1829101"
+        ]
+    },
+    {
+        "PortfolioGroupName": "TRX TRX",
+        "PortfolioGroupID": "z01165671",
+        "PortfolioIds": [
+            "1829101",
+            "1893671",
+            "z013962551",
+            "z014944091"
+        ]
+    },
+    {
+        "PortfolioGroupName": "RedBlack RedBlack",
+        "PortfolioGroupID": "z01166581",
+        "PortfolioIds": [
+            "1829101",
+            "z013956461",
+            "z013956821",
+            "z013957881",
+            "z013962651",
+            "z013969281",
+            "z013972911",
+            "z013974611",
+            "z013974671",
+            "z013974691",
+            "z013975071",
+            "z013976841"
+        ]
+    },
+    {
+        "PortfolioGroupName": "All Portfolios",
+        "PortfolioGroupID": "z01241151",
+        "PortfolioIds": [
+            ""
+        ]
+    },
+    {
+        "PortfolioGroupName": "Junxure Junxure",
+        "PortfolioGroupID": "z01242521",
+        "PortfolioIds": [
+            "z013956101",
+            "z013956141",
+            "z013956231",
+            "z013956241",
+            "z013956251",
+            "z013956261",
+            "z013956541",
+            "z013965741",
+            "z013968721",
+            "z013968741",
+            "z013969511",
+            "z013969571",
+            "z013969761",
+            "z013975751",
+            "z013975761",
+            "z013976221",
+            "z014473661",
+            "z014944091"
+        ]
+    },
+    {
+        "PortfolioGroupName": "Oklin BD  Lara",
+        "PortfolioGroupID": "z01272971",
+        "PortfolioIds": [
+            "z015553901"
+        ]
+    },
+    {
+        "PortfolioGroupName": "Billing C/H/U",
+        "PortfolioGroupID": "z01275051",
+        "PortfolioIds": [
+            "z015632961",
+            "z015638591"
+        ]
+    },
+    {
+        "PortfolioGroupName": "Quarterly Reports C/H/U",
+        "PortfolioGroupID": "z01275061",
+        "PortfolioIds": [
+            "z015632961",
+            "z015638591"
+        ]
+    },
+    {
+        "PortfolioGroupName": "PG1 Genesis",
+        "PortfolioGroupID": "z01288331",
+        "PortfolioIds": [
+            "z016288671"
+        ]
+    },
+    {
+        "PortfolioGroupName": "Chloe Xing",
+        "PortfolioGroupID": "z01288761",
+        "PortfolioIds": [
+            "z016306511",
+            "z016306521"
+        ]
+    },
+    {
+        "PortfolioGroupName": "portfolio group test1",
+        "PortfolioGroupID": "z01288771",
+        "PortfolioIds": [
+            "z016306511"
+        ]
+    },
+    {
+        "PortfolioGroupName": "Portfolio_group   test3",
+        "PortfolioGroupID": "z01288781",
+        "PortfolioIds": [
+            "z016306531"
+        ]
+    },
+    {
+        "PortfolioGroupName": "portfolio group test2",
+        "PortfolioGroupID": "z01288791",
+        "PortfolioIds": [
+            ""
+        ]
+    },
+    {
+        "PortfolioGroupName": "portfolio group test12",
+        "PortfolioGroupID": "z01288801",
+        "PortfolioIds": [
+            ""
+        ]
+    },
+    {
+        "PortfolioGroupName": "portfolio group test11",
+        "PortfolioGroupID": "z01288811",
+        "PortfolioIds": [
+            "z015405091",
+            "z015832521",
+            "z016312221",
+            "z016312231"
+        ]
+    }
+]
